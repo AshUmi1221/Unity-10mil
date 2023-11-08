@@ -1,0 +1,4 @@
+repository "Walter Jumper69@AshyUmi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
